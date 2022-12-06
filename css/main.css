@@ -164,4 +164,15 @@ img.pull-left { margin-right: 10px; }
 		.footer2 p { margin: 0; }
 
 	.widget-simplenav { margin-left:-5px; }		
-	.widget-simplenav a{ margin:0 5px; }		
+	.widget-simplenav a{ margin:0 5px; }	
+
+.flex{
+	display:flex;
+	flex-wrap: wrap;
+}
+.flex-col{
+	flex-direction: column;
+}
+.flex-row{
+	flex-direction: row;
+}
